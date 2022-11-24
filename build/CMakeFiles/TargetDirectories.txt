@@ -1,0 +1,4 @@
+D:/Jesse/Desktop/cameraCapture/build/CMakeFiles/cameraCapture.dir
+D:/Jesse/Desktop/cameraCapture/build/CMakeFiles/edit_cache.dir
+D:/Jesse/Desktop/cameraCapture/build/CMakeFiles/rebuild_cache.dir
+D:/Jesse/Desktop/cameraCapture/build/CMakeFiles/cameraCapture_autogen.dir
