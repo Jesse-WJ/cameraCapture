@@ -1,0 +1,393 @@
+[2023-02-03 13:29:09.180][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:1451][2023-02-03 13:29:09.180]: Init path = ./ trackingMode = 3 isClass = 0
+[2023-02-03 13:29:09.180][error][..\CommonSrc\Component\src\ConfigFile.cpp:72][2023-02-03 13:29:09.180]: ConfigFile::GetFloat error return: 0.0f, can't find the key = gazepointx
+[2023-02-03 13:29:09.180][error][..\CommonSrc\Component\src\ConfigFile.cpp:72][2023-02-03 13:29:09.180]: ConfigFile::GetFloat error return: 0.0f, can't find the key = gazepointy
+[2023-02-03 13:29:09.222][info][..\Camera_UserKey\PC_HID\src\PC_HID.cpp:400][2023-02-03 13:29:09.222]: 开始写数据到设备...
+
+[2023-02-03 13:29:09.223][info][..\Camera_UserKey\PC_HID\src\PC_HID.cpp:413][2023-02-03 13:29:09.223]: CheckHidDevice 成功向设备写出65个数据... 
+
+[2023-02-03 13:29:09.223][info][..\Camera_UserKey\PC_HID\src\PC_HID.cpp:416][2023-02-03 13:29:09.223]: CheckHidDevice 开始从设备读取数据...
+
+[2023-02-03 13:29:09.243][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:1477][2023-02-03 13:29:09.243]: CheckHidDevice success ret = 2
+[2023-02-03 13:29:09.243][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:1509][2023-02-03 13:29:09.243]: SDK Init : type = 0, cameraType = 3, Device = 6 glass = 0
+[2023-02-03 13:29:09.244][info][..\CommonSrc\AlgInterfaceGaze\srcEye\AlgInterfaceGaze.cpp:291][2023-02-03 13:29:09.244]: AlgInterfaceGazeObj::Init conf.eyeType = 1 
+[2023-02-03 13:29:09.244][error][..\CommonSrc\Component\src\ConfigFile.cpp:36][2023-02-03 13:29:09.244]: ConfigFile::GetInt error return: 0, can't find the key = EdgeRate
+[2023-02-03 13:29:09.244][error][..\CommonSrc\Component\src\ConfigFile.cpp:36][2023-02-03 13:29:09.244]: ConfigFile::GetInt error return: 0, can't find the key = saveImageMode
+[2023-02-03 13:29:09.244][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:485][2023-02-03 13:29:09.244]: init Gaze finish
+[2023-02-03 13:29:09.264][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:744][2023-02-03 13:29:09.264]: start thread
+[2023-02-03 13:29:09.264][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:675][2023-02-03 13:29:09.264]: init FD finish
+[2023-02-03 13:29:09.264][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:682][2023-02-03 13:29:09.264]: init FD finish 2
+[2023-02-03 13:29:09.265][info][..\CommonSrc\AlgInterfaceGaze\srcEye\AlgInterfaceGaze.cpp:291][2023-02-03 13:29:09.265]: AlgInterfaceGazeObj::Init conf.eyeType = 2 
+[2023-02-03 13:29:09.266][error][..\CommonSrc\Component\src\ConfigFile.cpp:36][2023-02-03 13:29:09.266]: ConfigFile::GetInt error return: 0, can't find the key = EdgeRate
+[2023-02-03 13:29:09.266][error][..\CommonSrc\Component\src\ConfigFile.cpp:36][2023-02-03 13:29:09.266]: ConfigFile::GetInt error return: 0, can't find the key = saveImageMode
+[2023-02-03 13:29:09.266][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:485][2023-02-03 13:29:09.266]: init Gaze finish
+[2023-02-03 13:29:09.289][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:744][2023-02-03 13:29:09.289]: start thread
+[2023-02-03 13:29:09.289][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:675][2023-02-03 13:29:09.289]: init FD finish
+[2023-02-03 13:29:09.289][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:682][2023-02-03 13:29:09.289]: init FD finish 2
+[2023-02-03 13:29:09.289][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:1787][2023-02-03 13:29:09.289]: smooth version = 20191116_0_0_0_0
+[2023-02-03 13:29:09.291][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:1804][2023-02-03 13:29:09.291]: UserInterfaceApi::Init success
+[2023-02-03 13:29:09.291][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:1999][2023-02-03 13:29:09.291]: UserInterfaceApi::GetSdkVersion version = 3.4.0.001-9232-100033-191121AGP3-ALG_COM_20191018_v1.0--
+[2023-02-03 13:29:09.291][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5562][2023-02-03 13:29:09.291]: GetDeviceHid
+[2023-02-03 13:29:09.291][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5564][2023-02-03 13:29:09.291]: GetDeviceHid end
+[2023-02-03 13:29:31.429][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:2196][2023-02-03 13:29:31.429]: SetCameraImageCallback callback begin
+[2023-02-03 13:29:31.431][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:2210][2023-02-03 13:29:31.431]: SetCameraImageCallback success
+[2023-02-03 13:29:31.431][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1939][2023-02-03 13:29:31.431]: StartGlassCamera begin width = 1280, height = 720
+[2023-02-03 13:29:31.844][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:21][2023-02-03 13:29:31.844]: StartCamera begin vid = 12308, pid = 9232, pid2 = 17156
+[2023-02-03 13:29:31.979][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:337][2023-02-03 13:29:31.979]: camera GetVersion successful version = 305
+[2023-02-03 13:29:32.066][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:18][2023-02-03 13:29:32.066]: AddBuffSize index = 0, size = 307200
+[2023-02-03 13:29:32.067][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:32.067]: CreateBuff new buff index = 0, count = 1 
+[2023-02-03 13:29:32.067][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:32.067]: CreateBuff new buff index = 0, count = 2 
+[2023-02-03 13:29:32.076][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:32.076]: CreateBuff new buff index = 0, count = 3 
+[2023-02-03 13:29:32.076][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:32.076]: CreateBuff new buff index = 0, count = 4 
+[2023-02-03 13:29:32.083][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:32.083]: CreateBuff new buff index = 0, count = 5 
+[2023-02-03 13:29:32.092][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:32.092]: CreateBuff new buff index = 0, count = 6 
+[2023-02-03 13:29:32.100][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:32.100]: CreateBuff new buff index = 0, count = 7 
+[2023-02-03 13:29:32.100][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:32.100]: CreateBuff new buff index = 0, count = 8 
+[2023-02-03 13:29:32.123][info][..\CommonSrc\AlgInterfaceGaze\srcEye\AlgInterfaceGaze.cpp:2530][2023-02-03 13:29:32.123]: save calibration data buff = .//armeabi/gaze/initFlashData1.dat
+[2023-02-03 13:29:32.126][info][..\CommonSrc\AlgInterfaceGaze\srcEye\AlgInterfaceGaze.cpp:2538][2023-02-03 13:29:32.126]: save InitFlashData data success
+[2023-02-03 13:29:32.126][info][..\CommonSrc\AlgInterfaceGaze\srcEye\AlgInterfaceGaze.cpp:2530][2023-02-03 13:29:32.126]: save calibration data buff = .//armeabi/gaze/initFlashData2.dat
+[2023-02-03 13:29:32.127][info][..\CommonSrc\AlgInterfaceGaze\srcEye\AlgInterfaceGaze.cpp:2538][2023-02-03 13:29:32.127]: save InitFlashData data success
+[2023-02-03 13:29:32.127][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:544][2023-02-03 13:29:32.127]: StartCamera success
+[2023-02-03 13:29:32.127][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:546][2023-02-03 13:29:32.127]: StartCamera end
+[2023-02-03 13:29:32.127][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:2025][2023-02-03 13:29:32.127]: StartGlassCamera end ret = 0
+[2023-02-03 13:29:32.127][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:2341][2023-02-03 13:29:32.127]: StartEyeGazeCallbackEx begin
+[2023-02-03 13:29:32.127][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:2425][2023-02-03 13:29:32.127]: StartEyeGazeCallbackEx end
+[2023-02-03 13:29:32.176][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:32.176]: CreateBuff new buff index = 0, count = 9 
+[2023-02-03 13:29:32.177][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:32.177]: CreateBuff new buff index = 0, count = 10 
+[2023-02-03 13:29:32.235][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:32.235]: CreateBuff new buff index = 0, count = 11 
+[2023-02-03 13:29:32.235][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:32.235]: CreateBuff new buff index = 0, count = 12 
+[2023-02-03 13:29:32.236][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.236]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.270][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.270]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.287][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.287]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.354][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.354]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.413][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.413]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.482][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.482]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.548][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.548]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.632][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.632]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.666][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.666]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.683][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.683]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.734][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.734]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.793][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.793]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.819][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.819]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.860][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.860]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.929][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.929]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.948][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.948]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:32.987][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:32.987]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.029][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.029]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.073][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.073]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.089][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.089]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.149][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.149]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.215][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.215]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.283][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.283]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.350][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.350]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.358][info][..\CommonSrc\Component\src\MemPoolPtr.cpp:57][2023-02-03 13:29:33.358]: CreateBuff new buff index = 0, count = 13 
+[2023-02-03 13:29:33.411][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.411]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.468][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.468]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.494][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.494]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.537][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.537]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.619][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.619]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.662][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.662]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.682][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.682]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.730][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.730]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.807][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.807]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.825][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.825]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.875][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.875]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.924][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.924]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.950][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.950]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:33.983][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:33.983]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.001][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.001]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.059][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.059]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.081][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.081]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.147][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.147]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.212][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.212]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.280][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.280]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.338][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.338]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.397][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.397]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.416][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.416]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.431][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.431]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.447][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.447]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.464][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.464]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.514][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.514]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.541][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.541]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.591][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.591]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.609][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.609]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.668][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.668]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.726][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.726]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.752][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.752]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.785][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.785]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.804][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.804]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.847][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.847]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.871][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.871]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.914][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.914]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.929][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.928]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:34.979][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:34.979]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.005][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.005]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.029][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.029]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.072][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:29:35.072]: sdk camera rate = 119
+[2023-02-03 13:29:35.073][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.073]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.073][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:35.073]: EyeTracking camera = 0, rate = 119
+[2023-02-03 13:29:35.073][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:35.073]: EyeTracking camera = 0, rate = 119
+[2023-02-03 13:29:35.076][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:29:35.076]: sdk camera call usercall rate = 192
+[2023-02-03 13:29:35.085][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:29:35.085]: sdk front camera rate = 30
+[2023-02-03 13:29:35.089][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.089]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.150][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.150]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.164][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.164]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.198][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.198]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.216][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.216]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.266][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.266]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.318][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.318]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.334][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.334]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.402][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.401]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.435][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.435]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.478][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.478]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.502][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.502]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.528][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.528]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.545][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.545]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.621][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.621]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.663][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.663]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.680][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.680]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.722][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.722]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.748][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.748]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.807][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.807]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.831][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.831]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.875][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.875]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:35.933][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:29:35.933]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:29:37.596][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:2121][2023-02-03 13:29:37.596]: interval is too big interval = 33909, m_checkChangeCameraIntervalTime = 13956
+[2023-02-03 13:29:37.613][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:2121][2023-02-03 13:29:37.613]: interval is too big interval = 8979, m_checkChangeCameraIntervalTime = 3989
+[2023-02-03 13:29:38.076][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:29:38.076]: sdk camera rate = 118
+[2023-02-03 13:29:38.077][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:38.077]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:38.077][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:29:38.077]: sdk camera call usercall rate = 247
+[2023-02-03 13:29:38.077][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:38.077]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:38.129][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:29:38.129]: sdk front camera rate = 30
+[2023-02-03 13:29:38.267][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:2121][2023-02-03 13:29:38.267]: interval is too big interval = 28923, m_checkChangeCameraIntervalTime = 10955
+[2023-02-03 13:29:38.271][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:2121][2023-02-03 13:29:38.271]: interval is too big interval = 2993, m_checkChangeCameraIntervalTime = 998
+[2023-02-03 13:29:41.082][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:29:41.082]: sdk camera rate = 118
+[2023-02-03 13:29:41.083][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:41.083]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:41.083][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:29:41.083]: sdk camera call usercall rate = 267
+[2023-02-03 13:29:41.083][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:41.083]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:41.153][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:29:41.153]: sdk front camera rate = 30
+[2023-02-03 13:29:42.072][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:4997][2023-02-03 13:29:42.071]: save camera image = .//armeabi/image/left/camera_1_1.bmp, timestamp = 10041195
+[2023-02-03 13:29:42.076][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5006][2023-02-03 13:29:42.076]: save camera image = .//armeabi/image/right/camera_2_1.bmp, timestamp = 10041195
+[2023-02-03 13:29:42.139][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5158][2023-02-03 13:29:42.139]: sdk eyes new call usercall rate = 118
+[2023-02-03 13:29:44.086][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:29:44.086]: sdk camera rate = 118
+[2023-02-03 13:29:44.087][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:29:44.087]: sdk camera call usercall rate = 267
+[2023-02-03 13:29:44.087][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:44.087]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:44.087][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:44.087]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:44.156][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:29:44.156]: sdk front camera rate = 29
+[2023-02-03 13:29:47.088][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:29:47.088]: sdk camera call usercall rate = 267
+[2023-02-03 13:29:47.091][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:29:47.091]: sdk camera rate = 118
+[2023-02-03 13:29:47.092][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:47.092]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:47.093][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:47.092]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:47.201][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:29:47.201]: sdk front camera rate = 30
+[2023-02-03 13:29:50.091][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:29:50.090]: sdk camera call usercall rate = 266
+[2023-02-03 13:29:50.097][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:29:50.097]: sdk camera rate = 118
+[2023-02-03 13:29:50.097][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:50.097]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:50.097][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:50.097]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:50.226][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:29:50.226]: sdk front camera rate = 30
+[2023-02-03 13:29:52.081][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:4997][2023-02-03 13:29:52.081]: save camera image = .//armeabi/image/left/camera_1_2.bmp, timestamp = 19938757
+[2023-02-03 13:29:52.093][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5006][2023-02-03 13:29:52.093]: save camera image = .//armeabi/image/right/camera_2_2.bmp, timestamp = 19947095
+[2023-02-03 13:29:52.141][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5158][2023-02-03 13:29:52.141]: sdk eyes new call usercall rate = 118
+[2023-02-03 13:29:53.094][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:29:53.094]: sdk camera call usercall rate = 267
+[2023-02-03 13:29:53.103][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:29:53.103]: sdk camera rate = 118
+[2023-02-03 13:29:53.104][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:53.104]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:53.104][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:53.104]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:53.232][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:29:53.232]: sdk front camera rate = 30
+[2023-02-03 13:29:56.096][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:29:56.096]: sdk camera call usercall rate = 267
+[2023-02-03 13:29:56.108][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:29:56.108]: sdk camera rate = 118
+[2023-02-03 13:29:56.110][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:56.110]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:56.110][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:56.110]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:56.254][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:29:56.254]: sdk front camera rate = 30
+[2023-02-03 13:29:59.107][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:29:59.107]: sdk camera call usercall rate = 266
+[2023-02-03 13:29:59.111][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:29:59.111]: sdk camera rate = 118
+[2023-02-03 13:29:59.112][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:59.112]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:59.112][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:29:59.112]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:29:59.267][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:29:59.267]: sdk front camera rate = 30
+[2023-02-03 13:30:02.099][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5006][2023-02-03 13:30:02.099]: save camera image = .//armeabi/image/right/camera_2_3.bmp, timestamp = 29811304
+[2023-02-03 13:30:02.110][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:02.110]: sdk camera call usercall rate = 266
+[2023-02-03 13:30:02.111][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:4997][2023-02-03 13:30:02.111]: save camera image = .//armeabi/image/left/camera_1_3.bmp, timestamp = 29819643
+[2023-02-03 13:30:02.113][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:02.113]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:02.113][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:02.113]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:02.118][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:02.118]: sdk camera rate = 118
+[2023-02-03 13:30:02.143][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5158][2023-02-03 13:30:02.143]: sdk eyes new call usercall rate = 118
+[2023-02-03 13:30:02.301][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:02.301]: sdk front camera rate = 30
+[2023-02-03 13:30:05.115][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:05.115]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:05.115][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:05.115]: sdk camera call usercall rate = 270
+[2023-02-03 13:30:05.115][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:05.115]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:05.121][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:05.121]: sdk camera rate = 118
+[2023-02-03 13:30:05.313][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:05.313]: sdk front camera rate = 30
+[2023-02-03 13:30:08.120][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:08.120]: sdk camera call usercall rate = 267
+[2023-02-03 13:30:08.120][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:08.120]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:08.120][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:08.120]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:08.127][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:08.127]: sdk camera rate = 118
+[2023-02-03 13:30:08.341][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:08.341]: sdk front camera rate = 30
+[2023-02-03 13:30:11.122][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:11.122]: sdk camera call usercall rate = 267
+[2023-02-03 13:30:11.124][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:11.124]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:11.124][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:11.124]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:11.132][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:11.132]: sdk camera rate = 118
+[2023-02-03 13:30:11.368][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:11.368]: sdk front camera rate = 30
+[2023-02-03 13:30:12.116][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5006][2023-02-03 13:30:12.116]: save camera image = .//armeabi/image/right/camera_2_4.bmp, timestamp = 39725543
+[2023-02-03 13:30:12.122][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:4997][2023-02-03 13:30:12.122]: save camera image = .//armeabi/image/left/camera_1_4.bmp, timestamp = 39733881
+[2023-02-03 13:30:12.145][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5158][2023-02-03 13:30:12.145]: sdk eyes new call usercall rate = 118
+[2023-02-03 13:30:14.125][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:14.125]: sdk camera call usercall rate = 266
+[2023-02-03 13:30:14.131][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:14.131]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:14.131][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:14.131]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:14.137][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:14.137]: sdk camera rate = 118
+[2023-02-03 13:30:14.371][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:14.371]: sdk front camera rate = 30
+[2023-02-03 13:30:17.126][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:17.126]: sdk camera call usercall rate = 267
+[2023-02-03 13:30:17.134][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:17.134]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:17.134][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:17.134]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:17.142][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:17.142]: sdk camera rate = 118
+[2023-02-03 13:30:17.377][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:17.377]: sdk front camera rate = 30
+[2023-02-03 13:30:20.133][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:20.133]: sdk camera call usercall rate = 268
+[2023-02-03 13:30:20.140][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:20.140]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:20.141][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:20.141]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:20.148][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:20.148]: sdk camera rate = 118
+[2023-02-03 13:30:20.406][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:20.406]: sdk front camera rate = 30
+[2023-02-03 13:30:22.126][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:4997][2023-02-03 13:30:22.126]: save camera image = .//armeabi/image/left/camera_1_5.bmp, timestamp = 49614767
+[2023-02-03 13:30:22.128][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5006][2023-02-03 13:30:22.128]: save camera image = .//armeabi/image/right/camera_2_5.bmp, timestamp = 49614767
+[2023-02-03 13:30:22.149][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5158][2023-02-03 13:30:22.149]: sdk eyes new call usercall rate = 118
+[2023-02-03 13:30:23.135][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:23.135]: sdk camera call usercall rate = 267
+[2023-02-03 13:30:23.144][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:23.144]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:23.145][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:23.144]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:23.152][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:23.152]: sdk camera rate = 118
+[2023-02-03 13:30:23.409][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:23.409]: sdk front camera rate = 30
+[2023-02-03 13:30:26.140][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:26.140]: sdk camera call usercall rate = 267
+[2023-02-03 13:30:26.150][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:26.150]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:26.150][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:26.150]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:26.157][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:26.157]: sdk camera rate = 118
+[2023-02-03 13:30:26.435][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:26.435]: sdk front camera rate = 30
+[2023-02-03 13:30:29.143][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:29.143]: sdk camera call usercall rate = 267
+[2023-02-03 13:30:29.153][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:29.153]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:29.154][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:29.154]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:29.163][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:29.163]: sdk camera rate = 118
+[2023-02-03 13:30:29.448][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:29.448]: sdk front camera rate = 30
+[2023-02-03 13:30:30.347][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:30.347]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:32.135][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:4997][2023-02-03 13:30:32.135]: save camera image = .//armeabi/image/left/camera_1_1.bmp, timestamp = 59503991
+[2023-02-03 13:30:32.138][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5006][2023-02-03 13:30:32.138]: save camera image = .//armeabi/image/right/camera_2_1.bmp, timestamp = 59503991
+[2023-02-03 13:30:32.151][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5158][2023-02-03 13:30:32.151]: sdk eyes new call usercall rate = 118
+[2023-02-03 13:30:32.151][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:32.151]: sdk camera call usercall rate = 266
+[2023-02-03 13:30:32.160][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:32.160]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:32.160][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:32.160]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:32.167][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:32.167]: sdk camera rate = 118
+[2023-02-03 13:30:32.478][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:32.478]: sdk front camera rate = 30
+[2023-02-03 13:30:35.152][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:35.152]: sdk camera call usercall rate = 267
+[2023-02-03 13:30:35.164][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:35.164]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:35.164][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:35.164]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:35.173][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:35.173]: sdk camera rate = 118
+[2023-02-03 13:30:35.482][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:35.482]: sdk front camera rate = 30
+[2023-02-03 13:30:38.155][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:38.155]: sdk camera call usercall rate = 266
+[2023-02-03 13:30:38.171][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:38.171]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:38.173][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:38.173]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:38.178][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:38.178]: sdk camera rate = 118
+[2023-02-03 13:30:38.484][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:38.483]: sdk front camera rate = 30
+[2023-02-03 13:30:41.160][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:41.160]: sdk camera call usercall rate = 267
+[2023-02-03 13:30:41.174][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:41.174]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:41.174][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:41.174]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:41.183][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:41.183]: sdk camera rate = 118
+[2023-02-03 13:30:41.507][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:41.507]: sdk front camera rate = 30
+[2023-02-03 13:30:42.138][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:4997][2023-02-03 13:30:42.138]: save camera image = .//armeabi/image/left/camera_1_2.bmp, timestamp = 69368200
+[2023-02-03 13:30:42.143][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5006][2023-02-03 13:30:42.143]: save camera image = .//armeabi/image/right/camera_2_2.bmp, timestamp = 69368200
+[2023-02-03 13:30:42.153][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5158][2023-02-03 13:30:42.153]: sdk eyes new call usercall rate = 118
+[2023-02-03 13:30:43.605][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:43.605]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:43.623][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:43.623]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:43.640][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:43.640]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:43.740][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:43.740]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:43.778][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:43.778]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:43.826][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:43.826]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:43.875][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:43.875]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:43.943][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:43.943]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:43.979][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:43.979]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.079][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.079]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.103][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.103]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.146][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.146]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.163][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:44.163]: sdk camera call usercall rate = 232
+[2023-02-03 13:30:44.179][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:44.179]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:44.179][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:44.179]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:44.187][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:44.187]: sdk camera rate = 118
+[2023-02-03 13:30:44.205][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.205]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.238][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.238]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.289][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.289]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.322][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.322]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.372][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.372]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.406][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.406]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.432][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.432]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.467][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.467]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.499][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.499]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.512][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:44.512]: sdk front camera rate = 30
+[2023-02-03 13:30:44.534][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.534]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.553][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.553]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.592][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.592]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.627][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.627]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.659][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.659]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.693][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.693]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.720][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.720]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.769][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.769]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.804][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.804]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.837][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.837]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.871][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.871]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.896][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.896]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:44.939][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:44.939]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.024][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.024]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.092][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.092]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.124][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.124]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.176][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.176]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.208][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.208]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.234][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.234]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.269][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.269]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.337][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.337]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.364][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.364]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.394][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.394]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.428][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.428]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.455][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.455]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.496][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.496]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.571][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.571]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.606][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.606]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.639][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.639]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.666][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.666]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.758][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.758]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.800][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.800]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.825][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.825]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:45.884][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:45.884]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:46.028][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:46.028]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:46.096][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5434][2023-02-03 13:30:46.096]: PushUserCallLow error Queue size > 10
+[2023-02-03 13:30:47.168][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:47.168]: sdk camera call usercall rate = 213
+[2023-02-03 13:30:47.183][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:47.183]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:47.183][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:47.183]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:47.193][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:47.193]: sdk camera rate = 118
+[2023-02-03 13:30:47.514][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:47.514]: sdk front camera rate = 30
+[2023-02-03 13:30:50.171][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:50.171]: sdk camera call usercall rate = 268
+[2023-02-03 13:30:50.188][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:50.188]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:50.188][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:50.188]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:50.197][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:50.197]: sdk camera rate = 118
+[2023-02-03 13:30:50.542][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:50.542]: sdk front camera rate = 30
+[2023-02-03 13:30:52.156][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5158][2023-02-03 13:30:52.156]: sdk eyes new call usercall rate = 118
+[2023-02-03 13:30:52.167][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:4997][2023-02-03 13:30:52.167]: save camera image = .//armeabi/image/left/camera_1_3.bmp, timestamp = 79274100
+[2023-02-03 13:30:52.170][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5006][2023-02-03 13:30:52.170]: save camera image = .//armeabi/image/right/camera_2_3.bmp, timestamp = 79274100
+[2023-02-03 13:30:53.173][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:5024][2023-02-03 13:30:53.173]: sdk camera call usercall rate = 265
+[2023-02-03 13:30:53.193][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:53.193]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:53.193][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1015][2023-02-03 13:30:53.193]: EyeTracking camera = 0, rate = 118
+[2023-02-03 13:30:53.201][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:196][2023-02-03 13:30:53.201]: sdk camera rate = 118
+[2023-02-03 13:30:53.547][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:1996][2023-02-03 13:30:53.547]: sdk front camera rate = 30
+[2023-02-03 13:30:53.703][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:553][2023-02-03 13:30:53.703]: StopCamera begin
+[2023-02-03 13:30:53.706][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:599][2023-02-03 13:30:53.706]: StopCamera begin1.1
+[2023-02-03 13:30:53.978][info][..\CommonSrc\USERSDK\src\UserInterface_CameraCtrl_API.cpp:633][2023-02-03 13:30:53.978]: StopCamera end
+[2023-02-03 13:30:53.978][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1633][2023-02-03 13:30:53.978]: GearVrSDK_EyeTrackingApi::Stop()
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1024][2023-02-03 13:30:53.978]: ThreadDealImage finish eyeType = 1
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1633][2023-02-03 13:30:53.979]: GearVrSDK_EyeTrackingApi::Stop()
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1024][2023-02-03 13:30:53.979]: ThreadDealImage finish eyeType = 2
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1653][2023-02-03 13:30:53.979]: GearVrSDK_EyeTrackingApi::Release()
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1660][2023-02-03 13:30:53.979]: GearVrSDK_EyeTrackingApi::Release2()
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1668][2023-02-03 13:30:53.979]: GearVrSDK_EyeTrackingApi::Release3()
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1627][2023-02-03 13:30:53.979]: GearVrSDK_~EyeTrackingApi()
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1633][2023-02-03 13:30:53.979]: GearVrSDK_EyeTrackingApi::Stop()
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1653][2023-02-03 13:30:53.979]: GearVrSDK_EyeTrackingApi::Release()
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1660][2023-02-03 13:30:53.979]: GearVrSDK_EyeTrackingApi::Release2()
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1668][2023-02-03 13:30:53.979]: GearVrSDK_EyeTrackingApi::Release3()
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1653][2023-02-03 13:30:53.979]: GearVrSDK_EyeTrackingApi::Release()
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1660][2023-02-03 13:30:53.979]: GearVrSDK_EyeTrackingApi::Release2()
+[2023-02-03 13:30:53.979][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1668][2023-02-03 13:30:53.979]: GearVrSDK_EyeTrackingApi::Release3()
+[2023-02-03 13:30:53.980][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1627][2023-02-03 13:30:53.980]: GearVrSDK_~EyeTrackingApi()
+[2023-02-03 13:30:53.980][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1633][2023-02-03 13:30:53.980]: GearVrSDK_EyeTrackingApi::Stop()
+[2023-02-03 13:30:53.980][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1653][2023-02-03 13:30:53.980]: GearVrSDK_EyeTrackingApi::Release()
+[2023-02-03 13:30:53.980][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1660][2023-02-03 13:30:53.980]: GearVrSDK_EyeTrackingApi::Release2()
+[2023-02-03 13:30:53.980][info][..\CommonSrc\EyeTracking\src\EyeTracking.cpp:1668][2023-02-03 13:30:53.980]: GearVrSDK_EyeTrackingApi::Release3()
+[2023-02-03 13:30:53.980][info][..\CommonSrc\USERSDK\src\UserInterface_API.cpp:1977][2023-02-03 13:30:53.980]: UserInterfaceApi::Release finished

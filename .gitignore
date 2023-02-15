@@ -2,3 +2,4 @@
 bin/cudnn64_7.dll
 bin/cameraCapture.exe
 build/
+output/
